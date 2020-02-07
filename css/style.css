@@ -47,7 +47,7 @@ a:hover {
 }
 
 .color-text-a {
-  color: #4e4e4e;
+  color: #ff0000;
 }
 
 .box-shadow,
@@ -685,7 +685,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #ff0000;
 }
 
 .skill-mf .progress {
@@ -720,7 +720,7 @@ a:hover {
 
 .service-box .service-ico {
   margin-bottom: 1rem;
-  color: #1e1e1e;
+  color: #ff0000;
 }
 
 .service-box .ico-circle {
@@ -736,7 +736,7 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #ff0000;
 }
 
 /*======================================
@@ -756,7 +756,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #ff0000;
 }
 
 .counter-num .counter {
