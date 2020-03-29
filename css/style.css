@@ -55,7 +55,7 @@ a:hover {
 .service-box,
 .work-box,
 .card-blog {
-  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 8px -10px rgba(0, 0, 0, 0.1);
 }
 
 .box-shadow-a,
@@ -774,20 +774,23 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 ======================================*/
 
 .work-box {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+ 
 }
 
 .work-box:hover img {
   -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  transform: scale(1.3); 
+  
 }
 
 .work-img {
-  display: block;
-  overflow: hidden;
+  width: auto;
+  height: 100%;
+  
 }
 
 .work-img img {
@@ -796,6 +799,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .work-content {
   padding: 2rem 3% 1rem 4%;
+  
 }
 
 .work-content .w-more {
